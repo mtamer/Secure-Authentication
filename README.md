@@ -6,6 +6,27 @@ Creating a secure authentication for a school. The app should allow users to res
 
 ## About
 
+#####Creating a profile page:
+
+![alt tag](https://github.com/mtamer/Secure-Authentication/blob/master/info/3.png)
+
+Changing Password
+
+![alt tag](https://github.com/mtamer/Secure-Authentication/blob/master/info/2.png)
+
+#####Hashed Passwords: 
+
+![alt tag](https://github.com/mtamer/Secure-Authentication/blob/master/info/1.png)
+
+#####Verification Email:
+
+![alt tag](https://github.com/mtamer/Secure-Authentication/blob/master/info/4.png)
+
+#####Cofirmation Email:
+
+![alt tag](https://github.com/mtamer/Secure-Authentication/blob/master/info/5.png)
+
+
 ## To Install
 
 To get app running: 
