@@ -2,7 +2,7 @@
 
 # Usage
 
-Creating a secure authentication for a school. The app should allow users to reset there passwords and be try to be as secure as possible.
+Creating a secure authentication app for a school. The app should allow users to reset there passwords and try to be as secure as possible.
 
 ## About
 
@@ -10,7 +10,7 @@ Creating a secure authentication for a school. The app should allow users to res
 
 ![alt tag](https://github.com/mtamer/Secure-Authentication/blob/master/info/3.png)
 
-Changing Password
+#####Changing Password
 
 ![alt tag](https://github.com/mtamer/Secure-Authentication/blob/master/info/2.png)
 
